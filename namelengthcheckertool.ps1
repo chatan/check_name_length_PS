@@ -1,5 +1,5 @@
-# Checks a directory and outputs the filenames which exceed a given length 
-# 17 OCT 2022 version
+# Powershell script that Checks a directory and outputs the filenames which exceed a given length 
+# 26 OCT 2022 edit (1st one in git)
 
 [CmdletBinding()]
 param
